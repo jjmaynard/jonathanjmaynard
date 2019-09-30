@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Jonathan J Maynard"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://jonathanjmaynard/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Jonathan J Maynard, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -28,6 +28,8 @@ disqusShortname = ""
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
+
+  
 # Get last modified date for content from Git?
 enableGitInfo = false
 
@@ -54,6 +56,7 @@ preserveTaxonomyNames = true
 	latexDashes = true
   extensions = ["backslashLineBreak"]
 
+  
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
@@ -65,3 +68,9 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+# Permalinks
+[permalinks]
+  posts = "/post/:year-:month-:slug/"
+  talks = "/talk/:year-:slug/"
+
