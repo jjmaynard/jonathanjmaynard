@@ -2,15 +2,15 @@
   
     <url>
     
-      <loc>/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2030-06-01T13:00:00-07:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/</loc>
       <lastmod>2030-06-01T13:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -83,6 +83,12 @@
     
       <loc>/post/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/projects/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -225,7 +231,7 @@
   
     <url>
     
-      <loc>/author/admin/</loc>
+      <loc>/author/jonathan/</loc>
     </url>
   
     <url>
@@ -243,6 +249,12 @@
     <url>
     
       <loc>/slides/example/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jonathan/</loc>
+      <priority>0</priority>
     </url>
   
 </urlset>
