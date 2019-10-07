@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.J. Maynard, T.W. Nauman, S.W. Salley, B.T. Bestelmeyer, M.C. Duniway, C.J. Talbot, J.R. Brown on Jonathan J Maynard</title>
+    <link>/authors/j.j.-maynard-t.w.-nauman-s.w.-salley-b.t.-bestelmeyer-m.c.-duniway-c.j.-talbot-j.r.-brown/</link>
+    <description>Recent content in J.J. Maynard, T.W. Nauman, S.W. Salley, B.T. Bestelmeyer, M.C. Duniway, C.J. Talbot, J.R. Brown on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/j.j.-maynard-t.w.-nauman-s.w.-salley-b.t.-bestelmeyer-m.c.-duniway-c.j.-talbot-j.r.-brown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Mapping of Ecological Land Units using a Nationally Scalable Modeling Framework</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/journal-article/</guid>
+      <description>Ecological site descriptions (ESDs) and associated state-and-transition models (STMs) provide a nationally consistent classification and information system for defining ecological land units for management applications in the US. This study presents a spatial modeling framework for mapping ecological sites using machine learning algorithms, soil survey field observations, soil survey geographic databases, ecological site data, and a suite of remote sensing-based spatial covariates.National coverage of the training and covariate data used in this study provides opportunities for a consistent national-scale mapping effort of ecological sites.</description>
+    </item>
+    
+  </channel>
+</rss>

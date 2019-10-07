@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawn M. Browning on Jonathan J Maynard</title>
+    <link>/authors/dawn-m.-browning/</link>
+    <description>Recent content in Dawn M. Browning on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/dawn-m.-browning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
+      <link>/publication2/my-md-folder/2017-01-01_browning2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication2/my-md-folder/2017-01-01_browning2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
+      <link>/publication/browning2017/2017-01-01_browning2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/browning2017/2017-01-01_browning2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of spatial image support in detecting long-term vegetation change from satellite time-series</title>
+      <link>/publication2/my-md-folder/2016-01-01_maynard2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication2/my-md-folder/2016-01-01_maynard2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of spatial image support in detecting long-term vegetation change from satellite time-series</title>
+      <link>/publication/maynard2016/2016-01-01_maynard2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/maynard2016/2016-01-01_maynard2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

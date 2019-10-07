@@ -5,6 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Popular Topics"
+title = "Interests"
 subtitle = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "50px", "0"]
+  
 +++

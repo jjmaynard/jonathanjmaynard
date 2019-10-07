@@ -5,9 +5,29 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = ""
-subtitle = "CONTACT"
+title = "Contact"
+subtitle = ""
 
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  gradient_start = "#E5E3DE"
+  gradient_end = "#9f9273"
+  
+  # Background image.
+  # image = ""  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  text_color_light = false
+  
 # Automatically link email and phone?
 autolink = true
 
@@ -15,6 +35,6 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 1
 +++
 

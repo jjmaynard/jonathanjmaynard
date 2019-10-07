@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,297 @@
     <item>
       <title>admin</title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      <title>Amy Ganguli</title>
+      <link>/authors/amy-ganguli/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>/authors/amy-ganguli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy Quandt</title>
+      <link>/authors/amy-quandt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amy-quandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandon Bestelmeyer</title>
+      <link>/authors/brandon-bestelmeyer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brandon-bestelmeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandon T. Bestelmeyer</title>
+      <link>/authors/brandon-t.-bestelmeyer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brandon-t.-bestelmeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curtis J. Talbot</title>
+      <link>/authors/curtis-j.-talbot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/curtis-j.-talbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Neff</title>
+      <link>/authors/jason-neff/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jason-neff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey E. Herrick</title>
+      <link>/authors/jeffrey-e.-herrick/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jeffrey-e.-herrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel R. Brown</title>
+      <link>/authors/joel-r.-brown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joel-r.-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Maynard</title>
+      <link>/authors/jon-maynard/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jon-maynard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan J. Maynard</title>
+      <link>/authors/jonathan-j.-maynard/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jonathan-j.-maynard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael C. Duniway</title>
+      <link>/authors/michael-c.-duniway/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michael-c.-duniway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shawn Salley</title>
+      <link>/authors/shawn-salley/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shawn-salley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shawn W. Salley</title>
+      <link>/authors/shawn-w.-salley/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shawn-w.-salley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travis W. Nauman</title>
+      <link>/authors/travis-w.-nauman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/travis-w.-nauman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. J. Maynard</title>
+      <link>/authors/j.-j.-maynard/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/j.-j.-maynard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. G. Johnson</title>
+      <link>/authors/m.-g.-johnson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/m.-g.-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Sharifi</title>
+      <link>/authors/a.-sharifi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/a.-sharifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. T. O&#39;Geen</title>
+      <link>/authors/a.-t.-ogeen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/a.-t.-ogeen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dawn M. Browning</title>
+      <link>/authors/dawn-m.-browning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dawn-m.-browning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debra C. Peters</title>
+      <link>/authors/debra-c.-peters/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/debra-c.-peters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason W. Karl</title>
+      <link>/authors/jason-w.-karl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jason-w.-karl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Kalin</title>
+      <link>/authors/l.-kalin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/l.-kalin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. M. Hantush</title>
+      <link>/authors/m.-m.-hantush/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/m.-m.-hantush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew R. Levi</title>
+      <link>/authors/matthew-r.-levi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/matthew-r.-levi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. A. Dahlgren</title>
+      <link>/authors/r.-a.-dahlgren/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/r.-a.-dahlgren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark G. Johnson</title>
+      <link>/authors/mark-g.-johnson/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mark-g.-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthony T. O&#39;Geen</title>
+      <link>/authors/anthony-t.-ogeen/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/anthony-t.-ogeen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neil Brauer</title>
+      <link>/authors/neil-brauer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/neil-brauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randy A. Dahlgren</title>
+      <link>/authors/randy-a.-dahlgren/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/randy-a.-dahlgren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Gan</title>
+      <link>/authors/j.-gan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/j.-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Budd</title>
+      <link>/authors/r.-budd/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/r.-budd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. J. Parikh</title>
+      <link>/authors/s.-j.-parikh/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/s.-j.-parikh/</guid>
       <description></description>
     </item>
     

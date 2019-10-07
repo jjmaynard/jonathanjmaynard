@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. G. Johnson on Jonathan J Maynard</title>
+    <link>/authors/m.-g.-johnson/</link>
+    <description>Recent content in M. G. Johnson on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/m.-g.-johnson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Applying fingerprint Fourier transformed infrared spectroscopy and chemometrics to assess soil ecosystem disturbance and recovery</title>
+      <link>/publication2/my-md-folder/2018-01-01_maynard2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication2/my-md-folder/2018-01-01_maynard2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying fingerprint Fourier transformed infrared spectroscopy and chemometrics to assess soil ecosystem disturbance and recovery</title>
+      <link>/publication/maynard2018/2018-01-01_maynard2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/maynard2018/2018-01-01_maynard2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-dependency of LiDAR derived terrain attributes in quantitative soil-landscape modeling: Effects of grid resolution vs. neighborhood extent</title>
+      <link>/publication2/my-md-folder/2014-01-01_maynard2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication2/my-md-folder/2014-01-01_maynard2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-dependency of LiDAR derived terrain attributes in quantitative soil-landscape modeling: Effects of grid resolution vs. neighborhood extent</title>
+      <link>/publication/maynard2014/2014-01-01_maynard2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/maynard2014/2014-01-01_maynard2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

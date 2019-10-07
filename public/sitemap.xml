@@ -21,55 +21,8 @@
   
     <url>
     
-      <loc>/publication_types/3/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/preprint/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/authors/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/source-themes/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-04-07T00:00:00-07:00</lastmod>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -87,8 +40,218 @@
   
     <url>
     
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/about/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/amy-ganguli/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/amy-quandt/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/brandon-bestelmeyer/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/brandon-t.-bestelmeyer/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/curtis-j.-talbot/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/maynard_sssaj_2019/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2019/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/ecological-sites/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/ecological-states/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jason-neff/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jeffrey-e.-herrick/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/joel-r.-brown/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jon-maynard/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jonathan-j.-maynard/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/land-potential/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/michael-c.-duniway/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2019-01-01_herrick2019/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/herrick2019/2019-01-01_herrick2019/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/projects/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/remote-sensing/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/shawn-salley/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/shawn-w.-salley/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/spatial-modeling/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/travis-w.-nauman/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -107,6 +270,143 @@
     
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2018-01-01_maynard2018/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2018/2018-01-01_maynard2018/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/j.-j.-maynard/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/m.-g.-johnson/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2017-01-01_maynard2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2017/2017-01-01_maynard2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/a.-sharifi/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/a.-t.-ogeen/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2017-01-01_browning2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/browning2017/2017-01-01_browning2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2017-01-01_sharifi2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/sharifi2017/2017-01-01_sharifi2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/dawn-m.-browning/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/debra-c.-peters/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2017-01-01_maynard2017a/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2017a/2017-01-01_maynard2017a/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jason-w.-karl/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/l.-kalin/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/m.-m.-hantush/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/matthew-r.-levi/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/r.-a.-dahlgren/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -157,15 +457,46 @@
   
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <loc>/publication2/my-md-folder/2016-01-01_maynard2016/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2016/2016-01-01_maynard2016/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/mark-g.-johnson/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication/journal-article/</loc>
+      <loc>/publication2/my-md-folder/2016-01-01_maynard2016a/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2016a/2016-01-01_maynard2016a/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/example-journal-format/</loc>
       <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/source-themes/</loc>
+      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -211,22 +542,199 @@
   
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/authors/anthony-t.-ogeen/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>/publication/conference-paper/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/publication2/my-md-folder/2015-01-01_brauer2015/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/authors/robert-ford/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/publication/brauer2015/2015-01-01_brauer2015/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/neil-brauer/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/randy-a.-dahlgren/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2014-01-01_maynard2014a/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2014a/2014-01-01_maynard2014a/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2014-01-01_maynard2014/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2014/2014-01-01_maynard2014/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2012-01-01_maynard2012/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2012/2012-01-01_maynard2012/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2011-01-01_maynard2011/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2011/2011-01-01_maynard2011/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2011-01-01_maynard2011a/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2011a/2011-01-01_maynard2011a/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/5/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/agricultural-runoff/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/constructed-wetlands/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/j.-gan/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2010-01-01_ogeen2010/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/ogeen2010/2010-01-01_ogeen2010/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/r.-budd/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/s.-j.-parikh/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/water-quality/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2009-01-01_maynard2009/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2009/2009-01-01_maynard2009/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2009-01-01_maynard2009a/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/maynard2009a/2009-01-01_maynard2009a/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication2/my-md-folder/2007-01-01_ogeen2007/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/ogeen2007/2007-01-01_ogeen2007/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>

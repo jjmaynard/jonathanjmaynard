@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -57,6 +57,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50", "0", "50px", "0"]
   
 [advanced]
  # Custom CSS. 
@@ -66,6 +70,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

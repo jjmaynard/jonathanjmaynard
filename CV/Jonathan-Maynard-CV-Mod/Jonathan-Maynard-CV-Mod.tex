@@ -1,0 +1,250 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 8 February 2019
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,]{moderncv}
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
+
+\definecolor{color0}{rgb}{0,0,0}% black
+\definecolor{color1}{HTML}{3873B3}% custom
+\definecolor{color2}{rgb}{0.45,0.45,0.45}% dark grey
+
+\usepackage[scaled=0.86]{DejaVuSansMono}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\def\donothing#1{#1}
+\def\emaillink#1{#1}
+
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75,footskip=52pt]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvheadnamewidth}{10cm}            % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+
+%%%% BIBLIOGRAPHY
+% Bibliography formatting
+
+\usepackage[sorting=ynt,citestyle=authoryear,bibstyle=authoryear-comp,defernumbers=true,maxnames=20,giveninits=true, bibencoding=utf8, terseinits=true, uniquename=init,dashed=false,doi=false,isbn=false,natbib=true,backend=biber]{biblatex}
+
+\DeclareFieldFormat{url}{\url{#1}}
+\DeclareFieldFormat[article]{pages}{#1}
+\DeclareFieldFormat[inproceedings]{pages}{\lowercase{pp.}#1}
+\DeclareFieldFormat[incollection]{pages}{\lowercase{pp.}#1}
+\DeclareFieldFormat[article]{volume}{\mkbibbold{#1}}
+\DeclareFieldFormat[article]{number}{\mkbibparens{#1}}
+\DeclareFieldFormat[article]{title}{\MakeCapital{#1}}
+\DeclareFieldFormat[article]{url}{}
+\DeclareFieldFormat[inproceedings]{title}{#1}
+\DeclareFieldFormat{shorthandwidth}{#1}
+\DeclareFieldFormat{extradate}{}
+
+% No dot before number of articles
+\usepackage{xpatch}
+\xpatchbibmacro{volume+number+eid}{\setunit*{\adddot}}{}{}{}
+
+% Remove In: for an article.
+\renewbibmacro{in:}{%
+  \ifentrytype{article}{}{%
+  \printtext{\bibstring{in}\intitlepunct}}}
+
+%\makeatletter
+%\DeclareDelimFormat[cbx@textcite]{nameyeardelim}{\addspace}
+%\makeatother
+
+\setlength{\bibitemsep}{1.8pt}
+\setlength{\bibhang}{.9cm}
+%\renewcommand{\bibfont}{\fontsize{12}{14}}
+
+\renewcommand*{\bibitem}{\addtocounter{papers}{1}\item \mbox{}\hskip-0.9cm\hbox to 0.9cm{\hfill\arabic{papers}.~\,}}
+\defbibenvironment{bibliography}
+{\list{}
+  {\setlength{\leftmargin}{\bibhang}%
+   \setlength{\itemsep}{\bibitemsep}%
+   \setlength{\parsep}{\bibparsep}}}
+{\endlist}
+{\bibitem}
+
+\renewcommand{\bibfont}{\normalfont\fontsize{10}{12.4}\selectfont}
+% Counters for keeping track of papers
+\newcounter{papers}
+
+\DeclareSortingScheme{ty}{
+  \sort{
+    \field{title}
+  }
+  \sort{
+    \field{year}
+  }
+}
+\DeclareBibliographyCategory{bib-JJMaynard.bib-4338083}
+\bibliography{JJMaynard.bib}
+
+% personal data
+\name{Jonathan J.}{Maynard}
+\title{Research Scientist}
+\address{Oregon State University}{}{}
+\phone[mobile]{+1 530 848 4144} % Phone number
+\email{\donothing{\href{mailto:jmaynard@nmsu.edu}{\nolinkurl{jmaynard@nmsu.edu}}}}
+\homepage{jonathanjmaynard.com} % Personal website
+\social[linkedin]{jonathanjmaynard}
+\social[twitter]{soilSpace}
+\social[github]{jjmaynard}
+% \extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+
+
+
+
+% Templates for detailed entries
+% Arguments: what when with where why
+\usepackage{etoolbox}
+\def\detaileditem#1#2#3#4#5{
+	\cventry{#2}{#1}{#3}{#4}{}{{\ifx#5\empty\else{\begin{itemize}#5\end{itemize}}\fi}}}
+\def\detailedsection#1{\nopagebreak#1}
+
+% Templates for brief entries
+% Arguments: what when with
+\def\briefitem#1#2#3{\cvitem{#2}{#1. #3}}
+\def\briefsection#1{\nopagebreak#1}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\hypertarget{data-science}{%
+\subsection{Data Science}\label{data-science}}
+
+\begin{itemize}
+\tightlist
+\item
+  Forecasting, machine learning, big data wrangling, process automation, Discrete Event Simulation, regression analysis, data quality enhancement, data visualization, classification, text mining
+\end{itemize}
+
+\hypertarget{applications}{%
+\subsection{Applications}\label{applications}}
+
+\begin{itemize}
+\tightlist
+\item
+  RStudio, SAS EG, SQL Server, Excel, Tableau
+\end{itemize}
+
+\hypertarget{languages}{%
+\subsection{Languages}\label{languages}}
+
+\begin{itemize}
+\tightlist
+\item
+  R, SAS (Base 9 Certified), SQL, VBA
+\end{itemize}
+
+\hypertarget{leadership}{%
+\subsection{Leadership}\label{leadership}}
+
+\begin{itemize}
+\tightlist
+\item
+  Former non-profit board member and president, presenting information to mid-size audience, mentorship of peers, explaining technical material to non-technical audience and management, oversight of interns, change management
+\end{itemize}
+
+\hypertarget{some-stuff-about-me}{%
+\section{Some stuff about me}\label{some-stuff-about-me}}
+
+\begin{itemize}
+\tightlist
+\item
+  I poisoned myself doing research.
+\item
+  I was the first woman to win a Nobel prize
+\item
+  I was the first person and only woman to win a Nobel prize in two different sciences.
+\end{itemize}
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\detailedsection{\detaileditem{MA, Economics}{2010 - 2012}{Central Michigan University}{Mount Pleasant, MI}{\item{Research Assistant for two professors}\item{Taught undergraduate Microeconomics}\item{Master's paper: Fare or Foul: The effects of public transit fare increases on auto fatalities}}\detaileditem{BS, Business}{2002 - 2006}{University of North Carolina}{Chapel Hill, NC}{\item{Minor: Anthropology}}}
+
+\hypertarget{nobel-prizes}{%
+\section{Nobel Prizes}\label{nobel-prizes}}
+
+\briefsection{\briefitem{Nobel Prize in Physics}{1903}{Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel}\briefitem{Nobel Prize in Chemistry}{1911}{Awarded for the discovery of radium and polonium}}
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\defbibheading{bib-JJMaynard.bib-4338083}{}
+\addtocategory{bib-JJMaynard.bib-4338083}{Herrick2019,
+Maynard2019,
+Maynard2018,
+Sharifi2017,
+Browning2017,
+Maynard2017,
+Maynard2017a,
+Maynard2016,
+Maynard2016a,
+Brauer2015,
+Maynard2014,
+Maynard2014a,
+Maynard2012,
+Maynard2011,
+Maynard2011a,
+OGeen2010,
+Maynard2009,
+Maynard2009a,
+OGeen2007}
+\newrefcontext[sorting=none]\setcounter{papers}{0}\pagebreak[3]
+\printbibliography[category=bib-JJMaynard.bib-4338083,heading=none]\setcounter{papers}{0}
+
+\nocite{Herrick2019,
+Maynard2019,
+Maynard2018,
+Sharifi2017,
+Browning2017,
+Maynard2017,
+Maynard2017a,
+Maynard2016,
+Maynard2016a,
+Brauer2015,
+Maynard2014,
+Maynard2014a,
+Maynard2012,
+Maynard2011,
+Maynard2011a,
+OGeen2010,
+Maynard2009,
+Maynard2009a,
+OGeen2007}
+
+
+\end{document}
+
+%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+%% end of file `template.tex'.

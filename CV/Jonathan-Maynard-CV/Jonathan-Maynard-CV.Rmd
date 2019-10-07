@@ -1,0 +1,131 @@
+---
+name: Jonathan J. Maynard
+surname: 
+position: "Research Scientist"
+address: "Oregon State University"
+phone: +1 530 848 4144
+www: jonathanjmaynard.com
+email: "jmaynard@nmsu.edu"
+twitter: soilSpace
+github: jjmaynard
+linkedin: jonathanjmaynard
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv:
+    keep_tex: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+library(lubridate)
+library(here)
+library(readxl)
+library(glue)
+```
+
+```{r, include=FALSE}
+library(tinytex)
+options(tinytex.verbose = TRUE)
+```
+
+```{r experience, inclue=FALSE}
+# jobs.raw <- read_csv(here::here("data", "jobs.csv"))
+# jobs <-
+#   jobs.raw %>% 
+#   fill(Start, End, What, With, Where, Tag) %>%  
+#   mutate(Start = mdy(Start),
+#          End = mdy(End)) %>% 
+#   mutate(When = case_when(
+#     is.na(End) ~ glue("{year(Start)}--Present") %>% as.character(),
+#     year(Start) == year(End) ~ year(End) %>% as.character(),
+#     TRUE ~ glue("{year(Start)}--{year(End)}") %>% as.character()
+#   )) %>% 
+#   mutate(End = if_else(is.na(End), today() + years(2), End)) #if no end date specified, set it to two years from now for sorting purposes, i.e. so jobs I'm still doing show up at top.
+```
+
+```{r presentations, include=FALSE}
+# presentations.raw <- read_csv(here("data", "presentations.csv"))
+# presentations <- 
+#   presentations.raw %>% 
+#   mutate(When = mdy(When)) %>% 
+#   filter(When < today()) #exclude upcoming talks
+```
+
+```{r prof-devel, include=FALSE}
+# development.raw <- read_csv(here("data", "professional development.csv"))
+# development <- 
+#   development.raw %>% 
+#   mutate(date = mdy(date))
+```
+
+```{r awards, include=FALSE}
+# awards.raw <- read_csv(here("data", "awards and grants.csv"))
+# awards <- awards.raw %>% 
+#   mutate(date = mdy(date)) %>% 
+#   arrange(desc(date))
+```
+
+```{r edu, include=FALSE}
+edu.raw <- read_csv(here("CV", "data", "education.csv"))
+edu <-
+  edu.raw %>%
+  mutate(pi = if_else(!is.na(pi), glue("PI: {pi}"), as.character(NA)),
+         dissertation = glue("\\textbf{[dissertation]}", .open = "[", .close = "]")) %>%
+  gather(dissertation, pi, key = "whytype", value = "why")
+edu["why"]
+```
+
+
+# Research Experience
+
+The primary focus of my research is to understand how soil properties and processes change in response to anthropogenic impacts, in particular land-use and climate change. My research employs a basic and applied approach to pedology that centers on anthropogenic impacts and quantifies and predicts patterns and processes of human-affected soil change. In particular, my research focuses on dynamic soil properties (i.e., soil organic matter, metals and nutrients) and the pedogenic controls that direct their spatial distribution, temporal dynamics and biogeochemical cycling. I have broad research experience working across a range of ecosystems (agriculture, rangelands, forests, wetlands), focusing on applied research questions addressing land-use/land-management issues that span a wide range of spatial scales (i.e., micron  to national scales). In my current work at the USDA-ARS and previous work at U.S. EPA, I have gained extensive experience collaborating with scientists from a wide range of disciplines and working on projects that have a diversity of stakeholders. Additional research interests include soil biogeochemistry, restoration ecology, spatial/temporal statistics, soil informatics, remote sensing, GIS, and water quality.  
+
+# Professional Employment & Affiliations
+
+```{r}
+tibble::tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
+# Education
+
+```{r}
+detailed_entries(edu,
+                 when = location,
+                 what = university,
+                 where = end_date,
+                 with = glue("{degree}, {major}"),
+                 why = why,
+                 .protect = FALSE)
+```
+
+
+
+# Publications
+```{r}
+# pubs <- scholar::get_publications("nyU9_dIAAAAJ&hl") %>%
+#   distinct(title, .keep_all = TRUE) %>%
+#   transmute(bibtype = "Article", author = as.character(author),
+#             title = as.character(title),
+#             journaltitle = as.character(journal), year, key = row_number()) %>%
+#   RefManageR::as.BibEntry() %>%
+#   RefManageR::WriteBib("pubs.bib")
+
+bibliography_entries("JJMaynard.bib")
+```
+
+
+
+
+
+
