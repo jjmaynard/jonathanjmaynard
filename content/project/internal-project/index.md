@@ -12,8 +12,8 @@ links:
 slides: example-slides
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-title: Internal Project
+- LandPKS
+title: Land Potential Knowledge System
 url_code: ""
 url_pdf: ""
 url_slides: ""
