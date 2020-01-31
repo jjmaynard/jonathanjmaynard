@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Modeling on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Digital mapping of ecological land units using a nationally scalable modeling framework</title>
-      <link>/publication2/maynard_sssaj_2019/</link>
+      <link>/publication/maynard2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/maynard_sssaj_2019/</guid>
+      <guid>/publication/maynard2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital mapping of ecological land units using a nationally scalable modeling framework</title>
-      <link>/publication/maynard2019/</link>
+      <link>/test_publication2/maynard_sssaj_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/maynard2019/</guid>
+      <guid>/test_publication2/maynard_sssaj_2019/</guid>
       <description></description>
     </item>
     

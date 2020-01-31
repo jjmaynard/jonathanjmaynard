@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason W. Karl on Jonathan J Maynard</title>
@@ -14,15 +14,6 @@
     
     <item>
       <title>A hyper-temporal remote sensing protocol for high-resolution mapping of ecological sites</title>
-      <link>/publication2/my-md-folder/2017-01-01_maynard2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication2/my-md-folder/2017-01-01_maynard2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hyper-temporal remote sensing protocol for high-resolution mapping of ecological sites</title>
       <link>/publication/maynard2017/2017-01-01_maynard2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -31,11 +22,11 @@
     </item>
     
     <item>
-      <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
-      <link>/publication2/my-md-folder/2017-01-01_browning2017/</link>
+      <title>A hyper-temporal remote sensing protocol for high-resolution mapping of ecological sites</title>
+      <link>/test_publication2/my-md-folder/2017-01-01_maynard2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2017-01-01_browning2017/</guid>
+      <guid>/test_publication2/my-md-folder/2017-01-01_maynard2017/</guid>
       <description></description>
     </item>
     
@@ -49,11 +40,11 @@
     </item>
     
     <item>
-      <title>Effect of spatial image support in detecting long-term vegetation change from satellite time-series</title>
-      <link>/publication2/my-md-folder/2016-01-01_maynard2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
+      <link>/test_publication2/my-md-folder/2017-01-01_browning2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2016-01-01_maynard2016/</guid>
+      <guid>/test_publication2/my-md-folder/2017-01-01_browning2017/</guid>
       <description></description>
     </item>
     
@@ -63,6 +54,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/maynard2016/2016-01-01_maynard2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of spatial image support in detecting long-term vegetation change from satellite time-series</title>
+      <link>/test_publication2/my-md-folder/2016-01-01_maynard2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/test_publication2/my-md-folder/2016-01-01_maynard2016/</guid>
       <description></description>
     </item>
     

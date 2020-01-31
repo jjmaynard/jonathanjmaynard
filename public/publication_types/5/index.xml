@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 on Jonathan J Maynard</title>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Mitigating nonpoint source pollution in agriculture with constructed and restored wetlands</title>
-      <link>/publication2/my-md-folder/2010-01-01_ogeen2010/</link>
+      <link>/test_publication2/my-md-folder/2010-01-01_ogeen2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2010-01-01_ogeen2010/</guid>
+      <guid>/test_publication2/my-md-folder/2010-01-01_ogeen2010/</guid>
       <description></description>
     </item>
     

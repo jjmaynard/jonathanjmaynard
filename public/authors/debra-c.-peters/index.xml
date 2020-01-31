@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debra C. Peters on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
-      <link>/publication2/my-md-folder/2017-01-01_browning2017/</link>
+      <link>/publication/browning2017/2017-01-01_browning2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2017-01-01_browning2017/</guid>
+      <guid>/publication/browning2017/2017-01-01_browning2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breaks in MODIS time series portend vegetation change: Verification using long-term data in an arid grassland ecosystem: Verification</title>
-      <link>/publication/browning2017/2017-01-01_browning2017/</link>
+      <link>/test_publication2/my-md-folder/2017-01-01_browning2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/browning2017/2017-01-01_browning2017/</guid>
+      <guid>/test_publication2/my-md-folder/2017-01-01_browning2017/</guid>
       <description></description>
     </item>
     

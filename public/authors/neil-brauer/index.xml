@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neil Brauer on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Fate of nitrate in seepage from a restored wetland receiving agricultural tailwater</title>
-      <link>/publication2/my-md-folder/2015-01-01_brauer2015/</link>
+      <link>/publication/brauer2015/2015-01-01_brauer2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2015-01-01_brauer2015/</guid>
+      <guid>/publication/brauer2015/2015-01-01_brauer2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fate of nitrate in seepage from a restored wetland receiving agricultural tailwater</title>
-      <link>/publication/brauer2015/2015-01-01_brauer2015/</link>
+      <link>/test_publication2/my-md-folder/2015-01-01_brauer2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/brauer2015/2015-01-01_brauer2015/</guid>
+      <guid>/test_publication2/my-md-folder/2015-01-01_brauer2015/</guid>
       <description></description>
     </item>
     

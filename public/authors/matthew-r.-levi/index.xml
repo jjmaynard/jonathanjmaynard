@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew R. Levi on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Hyper-temporal remote sensing for digital soil mapping: Characterizing soil-vegetation response to climatic variability</title>
-      <link>/publication2/my-md-folder/2017-01-01_maynard2017a/</link>
+      <link>/publication/maynard2017a/2017-01-01_maynard2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2017-01-01_maynard2017a/</guid>
+      <guid>/publication/maynard2017a/2017-01-01_maynard2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyper-temporal remote sensing for digital soil mapping: Characterizing soil-vegetation response to climatic variability</title>
-      <link>/publication/maynard2017a/2017-01-01_maynard2017a/</link>
+      <link>/test_publication2/my-md-folder/2017-01-01_maynard2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/maynard2017a/2017-01-01_maynard2017a/</guid>
+      <guid>/test_publication2/my-md-folder/2017-01-01_maynard2017a/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. M. Hantush on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Capturing spatial variability of biogeochemical mass exchanges and reaction rates in wetland water and soil through model compartmentalization</title>
-      <link>/publication2/my-md-folder/2017-01-01_sharifi2017/</link>
+      <link>/publication/sharifi2017/2017-01-01_sharifi2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2017-01-01_sharifi2017/</guid>
+      <guid>/publication/sharifi2017/2017-01-01_sharifi2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing spatial variability of biogeochemical mass exchanges and reaction rates in wetland water and soil through model compartmentalization</title>
-      <link>/publication/sharifi2017/2017-01-01_sharifi2017/</link>
+      <link>/test_publication2/my-md-folder/2017-01-01_sharifi2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sharifi2017/2017-01-01_sharifi2017/</guid>
+      <guid>/test_publication2/my-md-folder/2017-01-01_sharifi2017/</guid>
       <description></description>
     </item>
     

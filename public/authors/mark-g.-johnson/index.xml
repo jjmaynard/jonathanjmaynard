@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark G. Johnson on Jonathan J Maynard</title>
@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/mark-g.-johnson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Uncoupling the complexity of forest soil variation: Influence of terrain indices, spectral indices, and spatial variability</title>
-      <link>/publication2/my-md-folder/2016-01-01_maynard2016a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Applying fingerprint Fourier transformed infrared spectroscopy and chemometrics to assess soil ecosystem disturbance and recovery</title>
+      <link>/publication/maynard2018/2018-01-01_maynard2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2016-01-01_maynard2016a/</guid>
+      <guid>/publication/maynard2018/2018-01-01_maynard2018/</guid>
       <description></description>
     </item>
     
@@ -27,6 +27,24 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/maynard2016a/2016-01-01_maynard2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncoupling the complexity of forest soil variation: Influence of terrain indices, spectral indices, and spatial variability</title>
+      <link>/test_publication2/my-md-folder/2016-01-01_maynard2016a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/test_publication2/my-md-folder/2016-01-01_maynard2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-dependency of LiDAR derived terrain attributes in quantitative soil-landscape modeling: Effects of grid resolution vs. neighborhood extent</title>
+      <link>/publication/maynard2014/2014-01-01_maynard2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/maynard2014/2014-01-01_maynard2014/</guid>
       <description></description>
     </item>
     

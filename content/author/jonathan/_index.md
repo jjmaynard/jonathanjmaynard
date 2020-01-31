@@ -20,9 +20,10 @@ interests:
 - Pedology
 name: Jonathan J Maynard
 organizations:
-- name: USDA-ARS Jornada Experimental Range
+- name: University of Colorado, Boulder
   url: ""
-role: Research Ecologist
+role: LandPKS Analytical Scientist
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,6 +43,8 @@ user_groups:
 - Visitors
 ---
 
-Jonathan Maynard is a Research Ecologist at the USDA-ARS Jornada Experimental Range. His research employs a basic and applied approach to pedology that centers on anthropogenic impacts and quantifies and predicts patterns and processes of human-affected soil change. His current research focuses on large scale spatial modeling of soil and ecological properties, leveraging national-to-global datasets, remote sensing and machine learning to  characterize natural resources and better inform land management.
+I am a Research Analytical Scientist with [LandPKS](https://landpotential.org/) were I work at the interface between soil/ecological sciences and big data analytics to generate science-based solutions for sustainable land management. I am a broadly-trained soil scientist with expertise in pedology, soil databases, spatial and statistical analysis, remote sensing, and applied predictive modeling. My research focuses on large-scale spatial modeling of soil and ecological resources, quantifying patterns and processes of soil and ecosystem change. I specialize in producing actionable information from big data using machine learning, deep learning, and remote sensing techniques.
+
+
 
 

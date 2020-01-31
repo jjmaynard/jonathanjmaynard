@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeffrey E. Herrick on Jonathan J Maynard</title>
@@ -14,19 +14,19 @@
     
     <item>
       <title>Prioritizing land for investments based on short- and long-term land potential and degradation risk: A strategic approach</title>
-      <link>/publication2/my-md-folder/2019-01-01_herrick2019/</link>
+      <link>/publication/herrick2019/2019-01-01_herrick2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication2/my-md-folder/2019-01-01_herrick2019/</guid>
+      <guid>/publication/herrick2019/2019-01-01_herrick2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prioritizing land for investments based on short- and long-term land potential and degradation risk: A strategic approach</title>
-      <link>/publication/herrick2019/2019-01-01_herrick2019/</link>
+      <link>/test_publication2/my-md-folder/2019-01-01_herrick2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/herrick2019/2019-01-01_herrick2019/</guid>
+      <guid>/test_publication2/my-md-folder/2019-01-01_herrick2019/</guid>
       <description></description>
     </item>
     
