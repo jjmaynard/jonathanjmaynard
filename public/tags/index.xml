@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>biochar</title>
+      <link>/tags/biochar/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/biochar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>climate change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitat Soil Mapping</title>
+      <link>/tags/digitat-soil-mapping/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/digitat-soil-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soil carbon</title>
+      <link>/tags/soil-carbon/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/soil-carbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil Landscape Modeling</title>
+      <link>/tags/soil-landscape-modeling/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/soil-landscape-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soil organic matter</title>
+      <link>/tags/soil-organic-matter/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/soil-organic-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Quality</title>
+      <link>/tags/water-quality/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/water-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wetlands</title>
+      <link>/tags/wetlands/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/wetlands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XANES</title>
+      <link>/tags/xanes/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/xanes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XRD</title>
+      <link>/tags/xrd/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/tags/xrd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ecological Sites</title>
@@ -87,7 +177,7 @@
     <item>
       <title>Academic</title>
       <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/academic/</guid>
       <description></description>
@@ -135,15 +225,6 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>/tags/constructed-wetlands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Water Quality</title>
-      <link>/tags/water-quality/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/water-quality/</guid>
       <description></description>
     </item>
     

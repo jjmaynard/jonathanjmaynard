@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate change on Jonathan J Maynard</title>
+    <link>/tags/climate-change/</link>
+    <description>Recent content in climate change on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soil Carbon</title>
+      <link>/project/soil-carbon/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/soil-carbon/</guid>
+      <description>Mechanisms and Controls on Soil Carbon Cycling</description>
+    </item>
+    
+  </channel>
+</rss>

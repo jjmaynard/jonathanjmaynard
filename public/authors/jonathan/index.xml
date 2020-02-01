@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jonathan on Jonathan J Maynard</title>
@@ -7,17 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/authors/jonathan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/author/jonathan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Digital Soil Mapping</title>
+      <link>/project/digital-soil-mapping/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
       
-      <guid>/author/jonathan/</guid>
-      <description>Jonathan Maynard is a Research Ecologist at the USDA-ARS Jornada Experimental Range. His research employs a basic and applied approach to pedology that centers on anthropogenic impacts and quantifies and predicts patterns and processes of human-affected soil change. His current research focuses on large scale spatial modeling of soil and ecological properties, leveraging national-to-global datasets, remote sensing and machine learning to characterize natural resources and better inform land management.</description>
+      <guid>/project/digital-soil-mapping/</guid>
+      <description>Emerging techniques and advances in soil landscape modeling</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/writing-technical-content/</guid>
+      <description>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
+On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.
+Examples Code Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params.</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
   </channel>

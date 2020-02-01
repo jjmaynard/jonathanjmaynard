@@ -20,26 +20,140 @@
   
     <url>
     
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/authors/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <loc>/tags/biochar/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/climate-change/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/digital-soil-mapping/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/digitat-soil-mapping/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/ecosystem-monitoring/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/environ-remediation/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/jonathan/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/soil-carbon/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/soil-carbon/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/soil-landscape-modeling/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/soil-organic-matter/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/water-quality/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/water-quality/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/wetland-soil/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/wetlands/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/xanes/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/xrd/</loc>
+      <lastmod>2020-01-31T00:00:00-07:00</lastmod>
     </url>
   
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/writing-technical-content/</loc>
+      <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/jupyter/</loc>
+      <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -170,12 +284,6 @@
   
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/projects/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -219,12 +327,6 @@
     <url>
     
       <loc>/tags/spatial-modeling/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
   
@@ -411,13 +513,25 @@
     <url>
     
       <loc>/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/categories/demo/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -442,12 +556,6 @@
     
       <loc>/test_publication2/my-md-folder/2016-01-01_maynard2016a/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
   
     <url>
@@ -621,12 +729,6 @@
     <url>
     
       <loc>/authors/s.-j.-parikh/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/water-quality/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
   

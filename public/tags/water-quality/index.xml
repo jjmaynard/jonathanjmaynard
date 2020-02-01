@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/water-quality/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ecosystem Monitoring</title>
+      <link>/project/ecosystem-monitoring/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/ecosystem-monitoring/</guid>
+      <description>Environmental monitoring and soil ecosystem restoration Unprecedented rates of ecosystem change have occured as a result of human activities, with 43% of the Earth&#39;s land surface experiencing some form of human induced degradation. Consequently, there is a critical need to develop tools and techniques to assess and monitor landscape change. In my current research with the USDA-ARS I am examining the application of remote sensing technologies for natural resource monitoring. I am investigating the use of ground, airborne, and satellite sensors to estimate biotic, hydrologic and soil ecosystem indicators, in an effort to monitor and assess rangeland ecosystem status and trend both spatially and temporally.</description>
+    </item>
+    
+    <item>
+      <title>Water Quality</title>
+      <link>/project/water-quality/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/water-quality/</guid>
+      <description>Wetland water quality research in the CA Central Valley.</description>
+    </item>
+    
+    <item>
+      <title>Wetland Soils</title>
+      <link>/project/wetland-soil/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/wetland-soil/</guid>
+      <description>Wetland Soil Biogeochemistry</description>
+    </item>
     
     <item>
       <title>Mitigating nonpoint source pollution in agriculture with constructed and restored wetlands</title>

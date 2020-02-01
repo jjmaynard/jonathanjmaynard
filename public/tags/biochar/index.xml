@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biochar on Jonathan J Maynard</title>
+    <link>/tags/biochar/</link>
+    <description>Recent content in biochar on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/biochar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environmental Remediation</title>
+      <link>/project/environ-remediation/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/environ-remediation/</guid>
+      <description>Environmental Remediation of Soil Ecosystems</description>
+    </item>
+    
+  </channel>
+</rss>

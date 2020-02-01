@@ -1,7 +1,7 @@
 ---
 authors:
 - jonathan
-bio: My research interests include pedology, spatial ecology, and data science.
+bio: I am a Research Analytical Scientist with LandPKS were I work to generate applied technological solutions for sustainable land management. 
 education:
   courses:
   - course: PhD in Soils and Biogeochemistry
@@ -13,11 +13,12 @@ education:
   - course: BS in Internation Agricultural Development
     institution: University of California, Davis
     year: 2000
-email: ""
+email: "jonathan.maynard@colorado.edu"
 interests:
 - Soil and Ecological Modeling
-- Ecoinformatics
 - Pedology
+- Data Science
+- Remote Sensing
 name: Jonathan J Maynard
 organizations:
 - name: University of Colorado, Boulder

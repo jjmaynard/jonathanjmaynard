@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitat Soil Mapping on Jonathan J Maynard</title>
+    <link>/tags/digitat-soil-mapping/</link>
+    <description>Recent content in Digitat Soil Mapping on Jonathan J Maynard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jonathan J Maynard, {year}</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/digitat-soil-mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Soil Mapping</title>
+      <link>/project/digital-soil-mapping/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0700</pubDate>
+      
+      <guid>/project/digital-soil-mapping/</guid>
+      <description>Emerging techniques and advances in soil landscape modeling</description>
+    </item>
+    
+  </channel>
+</rss>
